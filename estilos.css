@@ -202,3 +202,57 @@ form textarea {
   height: 120px;
   resize: none; 
 }
+
+
+body {
+
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+
+h2 {
+  font-size: 3.2rem;
+  line-height: 1.1; 
+  letter-spacing: -0.022em; 
+  margin-bottom: 20px;
+}
+
+
+h3 {
+  font-size: 1.8rem;
+  font-weight: 600;
+  letter-spacing: -0.015em;
+  margin-bottom: 15px;
+}
+
+
+p {
+  font-size: 1.15rem;
+  line-height: 1.6;   
+  color: #48484a;  
+  max-width: 650px;   
+  margin: 0 auto 20px auto; 
+}
+
+
+p a {
+  color: #0066cc;
+  font-weight: 500;
+  transition: border-bottom 0.3s;
+  border-bottom: 1px solid transparent;
+}
+
+p a:hover {
+  border-bottom: 1px solid #0066cc;
+}
+
+
+section {
+  text-align: center;
+}
+
+strong {
+  color: #1d1d1f;
+  font-weight: 600;
+}
