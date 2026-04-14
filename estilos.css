@@ -256,3 +256,7 @@ strong {
   color: #1d1d1f;
   font-weight: 600;
 }
+
+.venta-pag {
+  background: linear-gradient(white,rgba(50, 88, 255, 0.281));
+}
